@@ -17,7 +17,7 @@ body {
 .about_title {
     font-weight: bold;
     /* Adjust the colors based on your image */
-    color: #198754;
+    color: #427a27;
     font-size: 2.25rem;
     line-height: 2.5rem;
     width: 100%;
@@ -62,7 +62,7 @@ body {
     text-align: center;
     font-size: 1.875rem;
     line-height: 2.25rem;
-    color: #198754;
+    color: #427a27;
     font-weight: bold;
 }
 
@@ -96,7 +96,7 @@ body {
     border-radius: 5px;
     margin-top:30px;
     position: relative;
-    left: 50%;
+    left: 42%;
     transform: translate(-50%);
 }
 
@@ -126,8 +126,8 @@ body {
 
 .key_features_content {
     display: grid;
-    width: 100%;
-    column-gap: 100px;
+    width: 80%;
+    column-gap: 70px;
     row-gap: 50px;
     grid-template-columns: repeat(2, auto);
     grid-template-rows: auto;
@@ -140,7 +140,7 @@ body {
     font-size: 1.875rem;
     line-height: 2.25rem;
     text-align: center;
-    color: #198754;
+    color: #427a27;
     
 }
 
@@ -149,6 +149,25 @@ body {
     border-radius: 10px;
     border: 1px solid rgba(128, 128, 128, 0.307);
     box-shadow: 1px 1px 2px rgba(128, 128, 128, 0.208);
+}
+
+.stories_why_yardy_river{
+    margin-top: 30px;
+    padding-top: 30px;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: auto;
+    column-gap: 80px;
+    row-gap: 50px;
+    width: 100%;
+    display: grid;
+}
+
+.stories_why_yardy_river .col1{
+    grid-column: span 3;
+
+}
+.stories_why_yardy_river .col2{
+    grid-column: span 2;
 }
 
 .clearfix:after{
@@ -160,7 +179,7 @@ body {
 .blog_content {
     width: 90%;
     margin: 30px auto 30px; 
-    background: #198754;
+    background: #427a27;
 }
 
 .blog_content .blog_main {
@@ -178,7 +197,7 @@ body {
     height: 270px;
     margin: 20px auto;
     border-radius: 5px;
-    background: #f0c153;
+    background: #e2c11a;
 }
 
 .blog_content .blog_main .blog_post .post_image{
@@ -247,6 +266,23 @@ body {
         row-gap:20px;
         grid-template-columns: auto;
         grid-template-rows: auto;
+        width: 100%;
+    }
+
+    .stories_why_yardy_river{
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+        row-gap: 20px;
+    }
+
+    .stories_why_yardy_river .col1{
+        width: 100% ;
+        grid-column: span 5;
+    }
+
+    .stories_why_yardy_river .col2{
+        width: 100% ;
+        grid-column: span 5;
     }
 
 
@@ -295,6 +331,23 @@ body {
         row-gap:20px;
         grid-template-columns: auto;
         grid-template-rows: auto;
+        width: 100%;
+    }
+
+    .stories_why_yardy_river{
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+        row-gap: 20px;
+    }
+
+    .stories_why_yardy_river .col1{
+        width: 100% ;
+        grid-column: span 5;
+    }
+
+    .stories_why_yardy_river .col2{
+        width: 100% ;
+        grid-column: span 5;
     }
 
     .blog_content .blog_main .blog_post{
@@ -308,7 +361,7 @@ body {
     
     .blog_content .blog_main .blog_post .post_preview{
         width: 100%;
-        background: #f0c153;
+        background: #e2c11a;
     }
 
 }
@@ -364,6 +417,23 @@ body {
         row-gap:20px;
         grid-template-columns: auto;
         grid-template-rows: auto;
+        width: 100%;
+    }
+
+    .stories_why_yardy_river{
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+        row-gap: 20px;
+    }
+
+    .stories_why_yardy_river .col1{
+        width: 100% ;
+        grid-column: span 5;
+    }
+
+    .stories_why_yardy_river .col2{
+        width: 100% ;
+        grid-column: span 5;
     }
 
 }

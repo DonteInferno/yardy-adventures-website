@@ -82,7 +82,9 @@ require_once "home_header.php" ?>
         
       </section>
 
-      <div class="blog_content clearfix">
+<div class="stories_why_yardy_river">
+  <div class="col1">
+    <div class="blog_content clearfix">
         
         <div class="blog_main">
           <h1 class="blog_post_title">Yardy Stories</h1>
@@ -92,10 +94,10 @@ require_once "home_header.php" ?>
             post_image">
             <div class="post_preview">
               <h2>Yardy tours</h2>
-              <i class="far fa-user">Guest user</i>
+              <i class="far fa-user"> Guest user</i>
               &nbsp;
               <p class="preview_text">
-              It was a great experience river tubing for the first time. The water was soooo clean and pretty. I'm definitely heading back for more! I'm not a swimmer, but I felt very safe on the tubing gear and in the presence of the experienced guides. I would highly recommend this adventure for all who want to have a great time in Jamaica.
+              It was a great experience river tubing for the first time. The water was soooo clean and pretty. I'm definitely heading back for more! I'm not a swimmer, but I felt very safe on the tubing gear and in the presence of the experienced guides.
               </p>
               <!-- <a>Read More</a> -->
             </div>
@@ -106,10 +108,10 @@ require_once "home_header.php" ?>
             post_image">
             <div class="post_preview">
               <h2>Yardy tours</h2>
-              <i class="far fa-user">Guest user</i>
+              <i class="far fa-user"> Guest user</i>
               &nbsp;
               <p class="preview_text">
-              Now, I am not normally the one to do outdoor adventures,but I took the chance on this place, and it was amazing. The ambiance and its natural look were very calming, giving you a chance to relax and enjoy the tour. The staff's are very welcoming, and they ensure that you are safe while participating on each ride.
+              Now, I am not normally the one to do outdoor adventures,but I took the chance on this place, and it was amazing. The ambiance and its natural look were very calming, giving you a chance to relax and enjoy the tour. The staff's are very welcoming.
               </p>
               <!-- <a>Read More</a> -->
             </div>
@@ -120,7 +122,7 @@ require_once "home_header.php" ?>
             post_image">
             <div class="post_preview">
               <h2>Yardy tours</h2>
-              <i class="far fa-user">Guest user</i>
+              <i class="far fa-user"> Guest user</i>
               &nbsp;
               <p class="preview_text">
               This is the best water tubing experience I had in Jamaica. The Crystal clear water pressure was perfect. The natural pool was amazing and the tubing was absolutely thrilling. Love it.
@@ -132,11 +134,10 @@ require_once "home_header.php" ?>
           <a href="" class="blog_btn">Read More</a>
         </div>
       </div>
+  </div>
 
-      <section class="key_features">
-       
-    
-        <h2 class="key_features_title">Why Yardy River Adventure?</h2>
+  <div class="col2">
+    <h2 class="key_features_title">Why Yardy River Adventure?</h2>
         <div class="key_features_content">
           <div class="card">
             
@@ -176,7 +177,10 @@ require_once "home_header.php" ?>
         </div>
 
         <a  class="book__link" href="">BOOK NOW</a>
-      </section>
+  </div>
+
+</div>
+
 
 </div>
 

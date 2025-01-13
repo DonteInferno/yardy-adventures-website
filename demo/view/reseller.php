@@ -42,6 +42,12 @@
   .cta-btn {
     color: #2BA9EA !important;
     font-size: 28px !important;
+    font-weight: 400;
+  }
+  .cta-btn-commission{
+    color: #2BA9EA !important;
+    font-size: 40px !important;
+    font-weight: 600;
   }
   
   h1{color: #427A27 !important;}
@@ -232,7 +238,7 @@ ul {
     <div class="container">
        <h1>Independent Seller Programme</h1>
             <h2>Explore | Promote | Earn</h2>
-            <a href="https://yardyadventures.com/demo/register"><button class="cta-btn">25% Commission</button></a>
+            <a href="https://yardyadventures.com/demo/register"><button class="cta-btn-commission">25% Commission</button></a>
         </div>
     </header>
 
@@ -263,7 +269,6 @@ ul {
 
     <div class="container">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSet54wEKNEQJVxaSJRQfpSr_CdgogvuDIweZZ3QGA7l1GE6VQ/viewform"><button class="cta-btn">Register Now</button></a>
-      <a href="https://yardyadventures.com/demo/login"><button class="cta-btn">Login</button></a>
     </div>
 
         <section class="image-text-section">
@@ -354,6 +359,8 @@ ul {
           <li>5. Sell standardized products as displayed on yardyadventures.com or communicate directly<br> with Manager, Planning and Market Relations for customized groups</li><br>
         </ol>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSet54wEKNEQJVxaSJRQfpSr_CdgogvuDIweZZ3QGA7l1GE6VQ/viewform"><button class="cta-btn">Register Now</button></a>
+
+        <a href="https://yardyadventures.com/demo/login"><button class="cta-btn">Login</button></a>
       </div>
     </section>
 

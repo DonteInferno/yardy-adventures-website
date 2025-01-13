@@ -295,7 +295,6 @@ if(!isset($title)) {
                         </li>
                                        
            
-                    
                         <li class="nav-item">
                             <a href="https://yardyadventures.com/demo/contact" class="nav-link " aria-current="page">Contact</a>
                         </li>
