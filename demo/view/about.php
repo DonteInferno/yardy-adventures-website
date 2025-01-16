@@ -99,7 +99,7 @@ require_once "home_header.php" ?>
               <p class="preview_text">
               It was a great experience river tubing for the first time. The water was soooo clean and pretty. I'm definitely heading back for more! I'm not a swimmer, but I felt very safe on the tubing gear and in the presence of the experienced guides.
               </p>
-              <!-- <a>Read More</a> -->
+              <a class="read_more_btn">Read More</a>
             </div>
           </div>
 
@@ -113,7 +113,7 @@ require_once "home_header.php" ?>
               <p class="preview_text">
               Now, I am not normally the one to do outdoor adventures,but I took the chance on this place, and it was amazing. The ambiance and its natural look were very calming, giving you a chance to relax and enjoy the tour. The staff's are very welcoming.
               </p>
-              <!-- <a>Read More</a> -->
+              <a class="read_more_btn">Read More</a>
             </div>
           </div>
 
@@ -127,11 +127,11 @@ require_once "home_header.php" ?>
               <p class="preview_text">
               This is the best water tubing experience I had in Jamaica. The Crystal clear water pressure was perfect. The natural pool was amazing and the tubing was absolutely thrilling. Love it.
               </p>
-              
+              <a class="read_more_btn">Read More</a>
             </div>
           </div>
 
-          <a href="" class="blog_btn">Read More</a>
+          <a href="" class="blog_btn">More Stories</a>
         </div>
       </div>
   </div>

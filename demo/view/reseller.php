@@ -77,9 +77,9 @@
   background-color: #198754 !important; 
   color:rgb(255, 251, 243) !important;
 }
+
 .sellingTable tbody tr:nth-child(even) {
   background-color: #f0c153 !important;
-  /* background-color: #28B9F5 !important; */
   color:rgb(5, 24, 15) !important;
 }
 
@@ -148,6 +148,17 @@
       margin-bottom: 30px;
       text-align: left;
       border-radius: 10px;
+    }
+
+    .why_join_yardy{
+      color: #2BA9EA !important;
+      font-size: 40px !important;
+      font-weight: 700;
+    }
+
+    .sub_heading{
+      font-size: 27px !important;
+      font-weight: 600;
     }
     .content-section h3 {
       color: #6a00ff;
@@ -251,8 +262,8 @@ ul {
     <main>
         <section class="content-section">
             <div class="container">
-                <p>Why Join the Yardy Community?</p>
-                <p>Lucrative income opportunity. Every sale generated from your promotion efforts boost your income. </p>
+                <p class="why_join_yardy">Why Join the Yardy Community?</p>
+                <p class="sub_heading">Lucrative income opportunity. Every sale generated from your promotion efforts boost your income. </p>
                 <p>The tours, attraction and activities (TAA) sector of the travel industry is in growth mode.  Increasing number of travelers are seeking immersive experiences and thrilling adventures.</p><br>
                 <p>True to our vision, To Innovate Adventures, Preserve Culture and Advance Communities, Yardy has a rich rich product portfolio and unique selling prepositions that are appealing to both local and international travelers.</p>
                 

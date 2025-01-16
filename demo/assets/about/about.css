@@ -82,6 +82,7 @@ body {
 
 .explore__link {
     padding: 10px;
+    margin-top: 30px;
     background-color: #28b9f5;
     color: white;
     border-radius: 5px;
@@ -96,7 +97,7 @@ body {
     border-radius: 5px;
     margin-top:30px;
     position: relative;
-    left: 42%;
+    left: 50%;
     transform: translate(-50%);
 }
 
@@ -198,6 +199,7 @@ body {
     margin: 20px auto;
     border-radius: 5px;
     background: #e2c11a;
+    position: relative;
 }
 
 .blog_content .blog_main .blog_post .post_image{
@@ -219,6 +221,20 @@ body {
     transform: translate(-50%);
     margin-bottom: 10px;
     font-size: 20px;
+}
+
+.read_more_btn{
+    padding: .5rem 1rem;
+    background: #427a27;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+.blog_content .blog_main .blog_post .read_more_btn {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
 }
 
 
@@ -364,6 +380,11 @@ body {
         background: #e2c11a;
     }
 
+    .blog_content .blog_main .blog_post .read_more_btn {
+        position: static;
+    
+    }
+
 }
 
 
@@ -435,6 +456,7 @@ body {
         width: 100% ;
         grid-column: span 5;
     }
+    
 
 }
 
