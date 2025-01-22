@@ -54,7 +54,7 @@ require_once "home_header.php" ?>
          Explore the great outdoors one adventure at a time or dive into a ½ day or full day Yardy Adventure.
         </p>
         <p>
-          Your adventure is backed by our talented tour guides that not only take your safety seriously but ensure that you capably EXPLORE YOUR WILD SIDE!
+          Your adventure is backed by our talented tour guides that not only take your safety seriously but ensure that you capably <span class="explore_tag">EXPLORE YOUR WILDSIDE!</span>
         </p>
         
           <a  class="explore__link" href="">Explore Adventures</a>
@@ -83,6 +83,49 @@ require_once "home_header.php" ?>
       </section>
 
 <div class="stories_why_yardy_river">
+  <div class="col2">
+    <h2 class="key_features_title">Why Yardy River Adventure?</h2>
+        <div class="key_features_content">
+          <div class="card">
+            
+              <h4 class="card_title">Exciting Adventures</h4>
+            
+            <div class="card_content">
+              <p>From the roaring rapids to serene river glides, there's something for every adventure level.</p>
+            </div>
+          <!-- </div> -->
+          </div>
+          <div class="card">
+            
+              <h4 class="card_title">Cultural Immersion</h4>
+            
+
+            <div class="card_content">
+              <p>Learn about the rich history, traditions, and lifestyles of a YARDY.</p>
+            </div>
+          </div>
+
+          <div class="card">
+         
+              <h4 class="card_content">Eco-Friendly</h4>
+          
+            <div class="card_content">
+              <p>We are committed to preserving the natural beauty of our surroundings and promoting eco-friendly practices on all tours.</p>
+            </div>
+          </div>
+
+          <div class="card">
+              <h4 class="card_title">Community-Focused</h4>
+            <div class="card_content">
+              <p>We work closely with local communities to support their growth and development while providing authentic Jamaican experiences.</p>
+            </div>
+          </div>
+
+        </div>
+
+        <a  class="book__link" href="">BOOK NOW</a>
+  </div>
+
   <div class="col1">
     <div class="blog_content clearfix">
         
@@ -127,7 +170,17 @@ require_once "home_header.php" ?>
               <p class="preview_text">
               This is the best water tubing experience I had in Jamaica. The Crystal clear water pressure was perfect. The natural pool was amazing and the tubing was absolutely thrilling. Love it.
               </p>
-              <a class="read_more_btn">Read More</a>
+              <a class="read_more_btn" id="storiesOpen">Read More</a>
+
+              <!-- <div class="yardy_stories_modal" id="stories_modal">
+              <h2>My Yardy Adventure </h2>
+              <i class="far fa-user"> Guest user</i>
+              &nbsp;
+              <p class="">
+              Now, I am not normally the one to do outdoor adventures,but I took the chance on this place, and it was amazing. The ambiance and its natural look were very calming, giving you a chance to relax and enjoy the tour. The staff's are very welcoming.
+              </p>
+              <button class="close_btn_yardy">close</button>
+              </div> -->
             </div>
           </div>
 
@@ -136,54 +189,12 @@ require_once "home_header.php" ?>
       </div>
   </div>
 
-  <div class="col2">
-    <h2 class="key_features_title">Why Yardy River Adventure?</h2>
-        <div class="key_features_content">
-          <div class="card">
-            
-              <h4 class="card_title">Exciting Adventures</h4>
-            
-            <div class="card_content">
-              <p>From the roaring rapids to serene river glides, there's something for every adventure level.</p>
-            </div>
-          <!-- </div> -->
-          </div>
-          <div class="card">
-            
-              <h4 class="card_title">Cultural Immersion</h4>
-            
-
-            <div class="card_content">
-              <p>Learn about the rich history, traditions, and lifestyles of a YARDY.</p>
-            </div>
-          </div>
-
-          <div class="card">
-         
-              <h4 class="card_content">Eco-Friendly</h4>
-          
-            <div class="card_content">
-              <p>We are committed to preserving the natural beauty of our surroundings and promoting eco-friendly practices on all tours.</p>
-            </div>
-          </div>
-
-          <div class="card">
-              <h4 class="card_title">Community-Focused</h4>
-            <div class="card_content">
-              <p>We work closely with local communities to support their growth and development while providing authentic Jamaican experiences.</p>
-            </div>
-          </div>
-
-        </div>
-
-        <a  class="book__link" href="">BOOK NOW</a>
-  </div>
-
 </div>
 
 
 </div>
 
+<!-- <script src="/demo/assets/about/about.js"></script> -->
 
 
 <?php require_once "home_footer.php" ?>

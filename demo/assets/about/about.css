@@ -83,22 +83,32 @@ body {
 .explore__link {
     padding: 10px;
     margin-top: 30px;
-    background-color: #28b9f5;
-    color: white;
-    border-radius: 5px;
+    background-color: white;
+    color: #28b9f5;
+    border-radius: 10px;
+    border: 1px solid;
     position: relative;
     left: 50%;
     transform: translate(-50%);
 }
 .book__link{
     padding: 6px;
-    background-color: #28b9f5;
-    color: white;
-    border-radius: 5px;
+    background-color: white;
+    color: #28b9f5;
+    border-radius: 10px;
+    border: 1px solid;
     margin-top:30px;
     position: relative;
     left: 50%;
     transform: translate(-50%);
+}
+
+.explore_tag{
+    color: #427a27;
+    font-size: 1.5em;
+    font-weight: 700;
+    font-style: italic;
+    padding: 10px;
 }
 
 .eco_commitment_content_contaniner {
@@ -229,6 +239,7 @@ body {
     color: white;
     border: 1px solid transparent;
     border-radius: .25rem;
+    cursor: pointer;
 }
 
 .blog_content .blog_main .blog_post .read_more_btn {
@@ -236,6 +247,60 @@ body {
     bottom: 20px;
     right: 20px;
 }
+
+/* .blog_content .blog_main .blog_post .yardy_stories_modal{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75vw;
+    padding: 10px 20px;
+    background: #eee;
+} */
+
+/* #stories_modal{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.75);
+    display: none;
+} */
+
+/* .yardy_stories_modal #stories_modal{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75vw;
+    padding: 10px 20px;
+    background: #eee;
+} */
+
+/* .close_btn_yardy{
+    padding: .5rem 1rem;
+    background: #427a27;
+    color: white;
+    border: 1px solid ;
+    border-radius: .25rem;
+}
+
+#storiesOpen:target{
+    display: block;
+} */
+
+/* .yardy_stories_modal{
+    padding: 1em;
+    max-width: 75ch;
+    border: 0;
+    box-shadow: 0 0 1em rgb(0 0 0 / .4);
+    display: none;
+} */
+
+/* .yardyStoriesModal ::backdrop {
+    background: rgb(0 0 0 / .5);
+} */
 
 
 

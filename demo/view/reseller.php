@@ -83,10 +83,15 @@
   color:rgb(5, 24, 15) !important;
 }
 
+.sub_heading_table{
+      font-size: 14px !important;
+      font-weight: 800;
+    }
+
   
   
     body {
-      font-family: 'Arial', sans-serif;
+      /* font-family: 'Arial', sans-serif; */
       margin: 0;
       padding: 0;
       color: #333;
@@ -110,13 +115,14 @@
     .cta-btn {
       background-color: #fff;
       color: #ff0066;
-      padding: 15px 30px;
-      border: none;
+      padding: 10px 20px;
+      border: 1px solid; 
       font-size: 1.2em;
       cursor: pointer;
-      border-radius: 5px;
+      border-radius: 10px;
+      margin-right: 50px;
     }
-    
+
     /* Hero Banner */
     .hero-banner {
       background: url('/demo/assets/images/frontend/blog/PictureISPBanner.png') no-repeat center center/cover;
@@ -157,7 +163,7 @@
     }
 
     .sub_heading{
-      font-size: 27px !important;
+      font-size: 20px !important;
       font-weight: 600;
     }
     .content-section h3 {
@@ -263,9 +269,9 @@ ul {
         <section class="content-section">
             <div class="container">
                 <p class="why_join_yardy">Why Join the Yardy Community?</p>
-                <p class="sub_heading">Lucrative income opportunity. Every sale generated from your promotion efforts boost your income. </p>
-                <p>The tours, attraction and activities (TAA) sector of the travel industry is in growth mode.  Increasing number of travelers are seeking immersive experiences and thrilling adventures.</p><br>
-                <p>True to our vision, To Innovate Adventures, Preserve Culture and Advance Communities, Yardy has a rich rich product portfolio and unique selling prepositions that are appealing to both local and international travelers.</p>
+                <p><strong class="sub_heading"> Lucrative income opportunity.</strong> Every sale generated from your promotion efforts boost your income. </p>
+                <p><strong class="sub_heading" >The Tours, Attraction and Activities (TAA)</strong> sector of the travel industry is in <strong class="sub_heading"> growth mode.</strong>  Increasing number of travelers are seeking immersive experiences and thrilling adventures.</p><br>
+                <p><strong class="sub_heading">True to our vision</strong>, To Innovate Adventures, Preserve Culture and Advance Communities, Yardy has a rich rich product portfolio and unique selling prepositions that are appealing to both local and international travelers.</p>
                 
             </div>
         </section>
@@ -296,7 +302,7 @@ ul {
             <tbody>
                 <tr>
                     <th scope="row">Product<br>
-                    <strong>UNIQUE</strong> – Authentic experiences are not readily duplicated.
+                    <strong class="sub_heading_table">UNIQUE</strong> – Authentic experiences are not readily duplicated.
                   </th>
                     <td>
                         
@@ -311,7 +317,7 @@ ul {
                 </tr>
                 <tr>
                     <th scope="row">Place<br>
-                        <strong>COMPARATIVE ADVANTAGE</strong> – Proximity and diverse product offering minimize travelling time for single or multiple experiences.
+                        <strong class="sub_heading_table">COMPARATIVE ADVANTAGE</strong> – Proximity and diverse product offering minimize travelling time for single or multiple experiences.
                     </th>
                     <td>
                         <ul>
@@ -326,7 +332,7 @@ ul {
                 </tr>
                 <tr>
                     <th scope="row">Price<br>
-                        <strong>COMPETITIVE ADVANTAGE</strong> – Distinguished product is sold at competitive market prices.
+                        <strong class="sub_heading_table">COMPETITIVE ADVANTAGE</strong> – Distinguished product is sold at competitive market prices.
                     </th>
                     <td>
                         <ul>
@@ -339,7 +345,7 @@ ul {
                 <tr>
                     <th scope="row">
                       Markets <br>
-                      <strong>COMPREHENSIVE</strong> - marketing and sales strategy has dynamic components that appeal to market segments.
+                      <strong class="sub_heading_table">COMPREHENSIVE</strong> - marketing and sales strategy has dynamic components that appeal to market segments.
                     </th>
 
                     <td>
@@ -369,9 +375,9 @@ ul {
           <li>4. Utilize Yardy resources only for the purpose intended:  to create and maintain a positive brand </li>
           <li>5. Sell standardized products as displayed on yardyadventures.com or communicate directly<br> with Manager, Planning and Market Relations for customized groups</li><br>
         </ol>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSet54wEKNEQJVxaSJRQfpSr_CdgogvuDIweZZ3QGA7l1GE6VQ/viewform"><button class="cta-btn">Register Now</button></a>
-
-        <a href="https://yardyadventures.com/demo/login"><button class="cta-btn">Login</button></a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSet54wEKNEQJVxaSJRQfpSr_CdgogvuDIweZZ3QGA7l1GE6VQ/viewform"><button class="cta-btn">Register Now</button></a>
+            <a href="https://yardyadventures.com/demo/login"><button class="cta-btn">Login</button></a>
+        
       </div>
     </section>
 

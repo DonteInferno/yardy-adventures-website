@@ -180,6 +180,12 @@
         }
     );
 
+    $router->addRoute(
+        path: "/demo/stories", method: "GET", handler: function () {
+            View::render("stories");
+        }
+    );
+
        
     
     try {
