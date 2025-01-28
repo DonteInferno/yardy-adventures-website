@@ -140,9 +140,9 @@ require_once "home_header.php" ?>
               <i class="far fa-user"> Guest user</i>
               &nbsp;
               <p class="preview_text">
-              It was a great experience river tubing for the first time. The water was soooo clean and pretty. I'm definitely heading back for more! I'm not a swimmer, but I felt very safe on the tubing gear and in the presence of the experienced guides.
+              In the quiet hum of a digital workspace, young and upcoming professionals in Website Development, Stefan Adams, Marklon Brown, Donte Patterson and Soyini Slater, plugged in daily to create the Yardy River Adventures Website.  Ryan Cole.....
               </p>
-              <a class="read_more_btn">Read More</a>
+              <a href="https://yardyadventures.com/demo/view/stories.php" class="read_more_btn">Read More</a>
             </div>
           </div>
 
@@ -184,7 +184,7 @@ require_once "home_header.php" ?>
             </div>
           </div>
 
-          <a href="" class="blog_btn">More Stories</a>
+          <a href="https://yardyadventures.com/demo/view/stories.php" class="blog_btn">More Stories</a>
         </div>
       </div>
   </div>
