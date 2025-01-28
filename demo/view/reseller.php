@@ -270,7 +270,7 @@ ul {
             <div class="container">
                 <p class="why_join_yardy">Why Join the Yardy Community?</p>
                 <p><strong class="sub_heading"> Lucrative income opportunity.</strong> Every sale generated from your promotion efforts boost your income. </p>
-                <p><strong class="sub_heading" >The Tours, Attraction and Activities (TAA)</strong> sector of the travel industry is in <strong class="sub_heading"> growth mode.</strong>  Increasing number of travelers are seeking immersive experiences and thrilling adventures.</p><br>
+                <p>The Tours, Attraction and Activities (TAA) sector of the travel industry is in <strong class="sub_heading"> growth mode.</strong>  Increasing number of travelers are seeking immersive experiences and thrilling adventures.</p><br>
                 <p><strong class="sub_heading">True to our vision</strong>, To Innovate Adventures, Preserve Culture and Advance Communities, Yardy has a rich rich product portfolio and unique selling prepositions that are appealing to both local and international travelers.</p>
                 
             </div>

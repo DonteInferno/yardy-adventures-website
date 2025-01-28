@@ -11,7 +11,7 @@ require_once "home_header.php" ?>
     <!-- place holder video goes here -->
     <section class="about-video-contianer">
          <video
-        src="https://yardyadventures.com/demo/assets/about/placeholder_video/istockphoto-1442643715-640_adpp_is.mp4"
+        src="/demo/assets/about/placeholder_video/aboutrivervideo.mp4"
         autoplay
         muted
         loop
@@ -123,7 +123,7 @@ require_once "home_header.php" ?>
 
         </div>
 
-        <a  class="book__link" href="">BOOK NOW</a>
+        <a  class="book__link" href="">Book Now</a>
   </div>
 
   <div class="col1">

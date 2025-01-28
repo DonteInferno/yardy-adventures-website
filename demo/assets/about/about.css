@@ -39,7 +39,7 @@ body {
 }
 
 .about-video-contianer video {
-    width: 80%;
+    width: 50%;
     height: 100%;
     border-radius: 15px;
     margin-right: 20px;
@@ -222,6 +222,7 @@ body {
     width: 70%;
     padding: 10px;
     float: right;
+    
 }
 
 .blog_btn{
@@ -240,12 +241,18 @@ body {
     border: 1px solid transparent;
     border-radius: .25rem;
     cursor: pointer;
+    /* width: 100px; */
+    /* height: 40px; */
+    
 }
 
 .blog_content .blog_main .blog_post .read_more_btn {
     position: absolute;
     bottom: 20px;
     right: 20px;
+    /* white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; */
 }
 
 /* .blog_content .blog_main .blog_post .yardy_stories_modal{
