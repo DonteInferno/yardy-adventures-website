@@ -11,11 +11,12 @@ require_once "home_header.php" ?>
     <!-- place holder video goes here -->
     <section class="about-video-contianer">
          <video
-        src="/demo/assets/about/placeholder_video/aboutrivervideo.mp4"
+        src="https://yardyadventures.com/demo/assets/about/placeholder_video/aboutvideo.mp4"
         autoplay
         muted
         loop
         >
+        demo\assets\about\placeholder_video\aboutvideo.mp4
 </video>
     <div class="about_content">
         <h1 class="about_title">About Yardy</h1>  
@@ -136,9 +137,7 @@ require_once "home_header.php" ?>
             <img src="/demo/assets/images/frontend/adventure/Yardy Horseback Riding.jpg" alt="" class="
             post_image">
             <div class="post_preview">
-              <h2>Yardy tours</h2>
-              <i class="far fa-user"> Guest user</i>
-              &nbsp;
+              <h3>Yardy River Adventures Website brought to life</h3>
               <p class="preview_text">
               In the quiet hum of a digital workspace, young and upcoming professionals in Website Development, Stefan Adams, Marklon Brown, Donte Patterson and Soyini Slater, plugged in daily to create the Yardy River Adventures Website.  Ryan Cole.....
               </p>
@@ -150,9 +149,7 @@ require_once "home_header.php" ?>
             <img src="/demo/assets/images/frontend/adventure/Yardy River Walk.png" alt="" class="
             post_image">
             <div class="post_preview">
-              <h2>Yardy tours</h2>
-              <i class="far fa-user"> Guest user</i>
-              &nbsp;
+              <h3>Yardy tours</h3>
               <p class="preview_text">
               Now, I am not normally the one to do outdoor adventures,but I took the chance on this place, and it was amazing. The ambiance and its natural look were very calming, giving you a chance to relax and enjoy the tour. The staff's are very welcoming.
               </p>
@@ -164,9 +161,7 @@ require_once "home_header.php" ?>
             <img src="/demo/assets/images/frontend/adventure/Yardy River Tubing.jpg" alt="" class="
             post_image">
             <div class="post_preview">
-              <h2>Yardy tours</h2>
-              <i class="far fa-user"> Guest user</i>
-              &nbsp;
+              <h3>Yardy tours</h3>
               <p class="preview_text">
               This is the best water tubing experience I had in Jamaica. The Crystal clear water pressure was perfect. The natural pool was amazing and the tubing was absolutely thrilling. Love it.
               </p>
