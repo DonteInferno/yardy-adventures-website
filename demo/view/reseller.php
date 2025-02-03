@@ -75,12 +75,15 @@
 }
 .sellingTable tbody tr:nth-child(odd) {
   background-color: #198754 !important; 
-  color:rgb(255, 251, 243) !important;
+  color:rgb(255, 251, 243);
 }
 
 .sellingTable tbody tr:nth-child(even) {
   background-color: #f0c153 !important;
   color:rgb(5, 24, 15) !important;
+}
+.sellingTable .selling_table_content{
+  color: rgb(255, 251, 243) !important;
 }
 
 .sub_heading_table{
@@ -307,10 +310,10 @@ ul {
                     <td>
                         
                         <ul>
-                            <li>Seamless augmentation of natural, rustic environment that provide authentic immersive experiences for a variety of nature lovers and eco-culture adventurers:</li>
-                            <li><strong>Westmoreland</strong> rainfall is above the national average and the watersheds are preserved limestone mountains that provide a flow of high-quality water all year round. The rushing waters of the Roaring River cascades into deeper and more dramatic Cabaritta with pristine blue holes and shallow water for hiking or lounging.</li>
-                            <li>The Georges Plain is used traditionally for farming and has vast expanses of meadows.</li>
-                            <li>The surrounding mountains are home to a wide range of flora, fruits, curative herbs, and well-preserved rural living heritage.</li>
+                            <li class="selling_table_content">Seamless augmentation of natural, rustic environment that provide authentic immersive experiences for a variety of nature lovers and eco-culture adventurers:</li>
+                            <li class="selling_table_content"><strong>Westmoreland</strong> rainfall is above the national average and the watersheds are preserved limestone mountains that provide a flow of high-quality water all year round. The rushing waters of the Roaring River cascades into deeper and more dramatic Cabaritta with pristine blue holes and shallow water for hiking or lounging.</li>
+                            <li class="selling_table_content">The Georges Plain is used traditionally for farming and has vast expanses of meadows.</li>
+                            <li class="selling_table_content">The surrounding mountains are home to a wide range of flora, fruits, curative herbs, and well-preserved rural living heritage.</li>
                         </ul>
                         
                     </td>
@@ -335,9 +338,9 @@ ul {
                         <strong class="sub_heading_table">COMPETITIVE ADVANTAGE</strong> – Distinguished product is sold at competitive market prices.
                     </th>
                     <td>
-                        <ul>
-                            <li> Differentiated products are priced competitively.</li>
-                            <li> Competitive prices can be leveraged for promotional packages and wholesaling.</li>
+                        <ul class="selling_table_content">
+                            <li class="selling_table_content"> Differentiated products are priced competitively.</li>
+                            <li class="selling_table_content"> Competitive prices can be leveraged for promotional packages and wholesaling.</li>
                         </ul>
                         
                     </td>
@@ -369,7 +372,7 @@ ul {
         <h3>Terms of Reference</h3>
         <p><strong>Independent Sellers Will:</strong></p>
         <ol>
-          <li>1. Registration</li>
+          <li>1. Register</li>
           <li>2. Attend and participate in ISP training workshops</li>
           <li>3. Leverage or augment own marketing and selling channels to sell Yardy product via a unique QR Code </li>
           <li>4. Utilize Yardy resources only for the purpose intended:  to create and maintain a positive brand </li>

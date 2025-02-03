@@ -134,10 +134,12 @@ require_once "home_header.php" ?>
           <h1 class="blog_post_title">Yardy Stories</h1>
 
           <div class="blog_post clearfix">
-            <img src="/demo/assets/images/frontend/adventure/Yardy Horseback Riding.jpg" alt="" class="
+            <img src="/demo/assets/about/images/pictorial.jpg" alt="" class="
             post_image">
+
+            
             <div class="post_preview">
-              <h3>Yardy River Adventures Website brought to life</h3>
+              <h3>Website brought to life</h3>
               <p class="preview_text">
               In the quiet hum of a digital workspace, young and upcoming professionals in Website Development, Stefan Adams, Marklon Brown, Donte Patterson and Soyini Slater, plugged in daily to create the Yardy River Adventures Website.  Ryan Cole.....
               </p>
