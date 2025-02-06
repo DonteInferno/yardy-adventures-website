@@ -148,18 +148,26 @@ require_once "home_header.php" ?>
           </div>
 
           <div class="blog_post clearfix">
-            <img src="/demo/assets/images/frontend/adventure/Yardy River Walk.png" alt="" class="
+            <img src="/demo/assets/about/images/yard persona.png" alt="" class="
             post_image">
             <div class="post_preview">
-              <h3>Yardy tours</h3>
-              <p class="preview_text">
-              Now, I am not normally the one to do outdoor adventures,but I took the chance on this place, and it was amazing. The ambiance and its natural look were very calming, giving you a chance to relax and enjoy the tour. The staff's are very welcoming.
-              </p>
-              <a class="read_more_btn">Read More</a>
+              <h3>The Yardy Persona</h3>
+              <p class="preview_text">The Yardy Persona is more than just an identity—it’s a powerful mix of resilience, resourcefulness, and cultural pride deeply rooted in Jamaican heritage. Whether in the bustling streets...</p>
+              <a href="https://yardyadventures.com/demo/view/stories.php" class="read_more_btn">Read More</a>
             </div>
           </div>
 
           <div class="blog_post clearfix">
+            <img src="/demo/assets/about/images/plannedrustic.jpg" alt="" class="
+            post_image">
+            <div class="post_preview">
+              <h3>Intentional Natural Outdoor Adventures</h3>
+              <p class="preview_text">In a world of curated experiences and high-end vacations, there’s something deeply rewarding about embracing  raw beauty of nature. At Yardy River Adventures, we believe that adventure should be as immersive...</p>
+              <a href="https://yardyadventures.com/demo/view/stories.php" class="read_more_btn">Read More</a>
+            </div>
+          </div>
+
+         <!-- <div class="blog_post clearfix">
             <img src="/demo/assets/images/frontend/adventure/Yardy River Tubing.jpg" alt="" class="
             post_image">
             <div class="post_preview">
@@ -169,7 +177,7 @@ require_once "home_header.php" ?>
               </p>
               <a class="read_more_btn" id="storiesOpen">Read More</a>
 
-              <!-- <div class="yardy_stories_modal" id="stories_modal">
+              <div class="yardy_stories_modal" id="stories_modal">
               <h2>My Yardy Adventure </h2>
               <i class="far fa-user"> Guest user</i>
               &nbsp;
@@ -177,12 +185,12 @@ require_once "home_header.php" ?>
               Now, I am not normally the one to do outdoor adventures,but I took the chance on this place, and it was amazing. The ambiance and its natural look were very calming, giving you a chance to relax and enjoy the tour. The staff's are very welcoming.
               </p>
               <button class="close_btn_yardy">close</button>
-              </div> -->
+              </div>
             </div>
           </div>
 
           <a href="https://yardyadventures.com/demo/view/stories.php" class="blog_btn">More Stories</a>
-        </div>
+        </div> -->
       </div>
   </div>
 
