@@ -139,11 +139,12 @@ require_once "home_header.php" ?>
 
             
             <div class="post_preview">
-              <h3>Website brought to life</h3>
+              <h3>Website brought to life </h3>
+              <i class="far calendar date">February 7, 2025</i>
               <p class="preview_text">
-              In the quiet hum of a digital workspace, young and upcoming professionals in Website Development, Stefan Adams, Marklon Brown, Donte Patterson and Soyini Slater, plugged in daily to create the Yardy River Adventures Website.  Ryan Cole.....
+              In the quiet hum of a digital workspace, young and upcoming professionals in Website Development, Stefan Adams, Marklon Brown, Donte Patterson and Soyini Slater, plugged in daily to create the Yardy River Adventures Website.  Ryan Cole...
               </p>
-              <a href="https://yardyadventures.com/demo/view/stories.php" class="read_more_btn">Read More</a>
+              <a href="https://yardyadventures.com/stories" class="read_more_btn">Read More</a>
             </div>
           </div>
 
@@ -151,9 +152,10 @@ require_once "home_header.php" ?>
             <img src="/demo/assets/about/images/yard persona.png" alt="" class="
             post_image">
             <div class="post_preview">
-              <h3>The Yardy Persona</h3>
-              <p class="preview_text">The Yardy Persona is more than just an identity—it’s a powerful mix of resilience, resourcefulness, and cultural pride deeply rooted in Jamaican heritage. Whether in the bustling streets...</p>
-              <a href="https://yardyadventures.com/demo/view/stories.php" class="read_more_btn">Read More</a>
+              <h3>The Yardy Persona </h3>
+              <i class="far calendar date">February 7, 2025</i>
+              <p class="preview_text">The Yardy Persona is more than just an identity—it’s a powerful mix of resilience, resourcefulness, and cultural pride deeply rooted in Jamaican heritage. Whether in the bustling streets... </p>
+              <a href="https://yardyadventures.com/stories" class="read_more_btn">Read More</a>
             </div>
           </div>
 
@@ -161,9 +163,10 @@ require_once "home_header.php" ?>
             <img src="/demo/assets/about/images/plannedrustic.jpg" alt="" class="
             post_image">
             <div class="post_preview">
-              <h3>Intentional Natural Outdoor Adventures</h3>
-              <p class="preview_text">In a world of curated experiences and high-end vacations, there’s something deeply rewarding about embracing  raw beauty of nature. At Yardy River Adventures, we believe that adventure should be as immersive...</p>
-              <a href="https://yardyadventures.com/demo/view/stories.php" class="read_more_btn">Read More</a>
+              <h3>Intentional Natural Outdoor Adventures </h3>
+              <i class="far calendar date">February 7, 2025</i>
+              <p class="preview_text">In a world of curated experiences and high-end vacations, there’s something deeply rewarding about embracing  raw beauty of nature. At Yardy River Adventures, we believe that adventure should be as immersive... </p>
+              <a href="https://yardyadventures.com/stories" class="read_more_btn">Read More</a>
             </div>
           </div>
 

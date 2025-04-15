@@ -46,3 +46,15 @@
     
 }
 
+.return_btn{
+    padding: .5rem 1rem;
+    background: #427a27;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    cursor: pointer;
+    position: fixed; 
+    bottom: 30px;
+    left: 30px;
+}
+

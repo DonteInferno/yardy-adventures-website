@@ -6,6 +6,9 @@ require_once "home_header.php" ?>
 <link href="/demo/assets/stories/stories.css" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+<div class="">
+
 <div class="stories-banner">
         <h1>Yardy Stories</h1>
         <h3>EXPLORE YOUR WILDSIDE!</h3>
@@ -79,6 +82,9 @@ require_once "home_header.php" ?>
            
         </div>
     </div>
+</div>
+<a class="return_btn" href="https://yardyadventures.com/about#yardy-stories">Return</a>
+
 </div>
 
 

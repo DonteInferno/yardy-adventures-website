@@ -225,6 +225,10 @@ body {
     
 }
 
+.blog_content .blog_main .blog_post .post_preview .date{
+    padding-bottom: 5px;
+}
+
 .blog_btn{
     padding: 10px;
     position: relative;
