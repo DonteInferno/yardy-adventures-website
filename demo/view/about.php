@@ -58,7 +58,7 @@ require_once "home_header.php" ?>
           Your adventure is backed by our talented tour guides that not only take your safety seriously but ensure that you capably <span class="explore_tag">EXPLORE YOUR WILDSIDE!</span>
         </p>
         
-          <a  class="explore__link" href="">Explore Adventures</a>
+          <a  class="explore__link" href="https://yardyadventures.com/adventures">Explore Adventures</a>
       
       </section>
 
@@ -124,7 +124,7 @@ require_once "home_header.php" ?>
 
         </div>
 
-        <a  class="book__link" href="">Book Now</a>
+        <!-- <a  class="book__link" href="">Book Now</a> -->
   </div>
 
   <div class="col1">

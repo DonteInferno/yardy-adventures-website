@@ -258,7 +258,7 @@ ul {
     <div class="container">
        <h1>Independent Seller Programme</h1>
             <h2>Explore | Promote | Earn</h2>
-            <a href="https://yardyadventures.com/demo/register"><button class="cta-btn-commission">25% Commission</button></a>
+            <h2 class="cta-btn-commission">25% Commission</h2>
         </div>
     </header>
 

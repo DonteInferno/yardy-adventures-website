@@ -56,5 +56,25 @@
     position: fixed; 
     bottom: 30px;
     left: 30px;
+    z-index: 9999;
 }
 
+/* Extra Small: Mobile Phones */
+@media (max-width: 375px) {
+    .return_btn{
+        position: fixed; 
+        bottom: 100px;
+        left: 40px;
+        z-index: 9999;
+    }
+}
+
+/* Small Devices: Tablets and Larger Phones */
+@media (min-width: 376px) and (max-width: 767px) {
+    .return_btn{
+        position: fixed; 
+        bottom: 100px;
+        left: 40px;
+        z-index: 9999;
+    }
+}
